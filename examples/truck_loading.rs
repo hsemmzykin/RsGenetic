@@ -1,5 +1,17 @@
 // file: truck_loading.rs
-//
+// 
+
+
+
+
+// try adopting it for the optaplanner task
+
+
+
+
+
+
+
 // Copyright 2015-2017 The RsGenetic Developers
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
